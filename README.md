@@ -4,7 +4,7 @@ We are using MNIST dataset which is a dataset Consisting of Handwritten Images f
 
 Each Image is 28*28 in Size and total of 784 pixel image .Value of each pixel lies within a range which varies from (0-255) .0 to white and 255 for black color 
 
-x_train[0][12] 12th image with value of array([  0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,  11, 190,253,  70,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0, 0,   0], dtype=uint8) value is between 0-255
+x_train[0][12] 12th image with value of array([  0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,  11, 190,253,  70,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0, 0,   0], dtype=uint8) value is between 0-255.
          
          
          
